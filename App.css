@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background: #e6e9ee;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  padding: 50px;
+  flex-wrap: wrap;
+}
